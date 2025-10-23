@@ -8,6 +8,5 @@ i consider myself a beginner / intermediate coder, and any suggestions, correcti
 
 a few of my projects include:
 
-- a simple dice roller including the ability to add and subtract fixed and random numbers, and preset dice (platonic, d10, d100)
-- (not coding, but i guess) a *minecraft* redstone computer for floating point operations.
-- an arduino hydroponic germinator for ***lettuces*** (to this day I still find that funny. just. lettuces).
+- a simple dice roller including the ability to add and subtract fixed and random numbers, and preset dice (ex: d4, d6, d8, d10, d12, d20, d100)
+- an arduino hydroponic germinator with iot integration. i actually presented this @ the Pereira research group zonal convention (Encuentro Zonal de Semilleros de Investigación en Pereira) as a research project. (im actually typing this @ the convention rn. might post the code later.)
